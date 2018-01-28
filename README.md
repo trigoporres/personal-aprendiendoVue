@@ -4,7 +4,7 @@
 
 :bulb: [Web personal](http://strigo.es/)
 
-##Cursos
+## Cursos
 
 :movie_camera: (realizando) [aprende Vue2 y firebase](https://wmedia.teachable.com/p/aprende-vue2-y-firebase-paso-a-paso)
 
@@ -26,6 +26,6 @@
 
 :page_facing_up: (9/01/2018) [Vue diferentes formas de reutilizar codigo](https://elabismodenull.wordpress.com/2017/08/29/vuejs-diferentes-formas-de-reutilizar-codigo/)
 
-##Recursos
+## Recursos
 
 😍 :page_facing_up: [Made with vue.js](https://madewithvuejs.com/)
