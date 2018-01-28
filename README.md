@@ -29,3 +29,21 @@
 ## Recursos
 
 😍 :page_facing_up: [Made with vue.js](https://madewithvuejs.com/)
+
+## Referentes
+
+- José Antonio Dongil Sánchez
+
+  - [Blog](https://elabismodenull.wordpress.com/)
+  - [Twitter](https://twitter.com/jdonsan)
+
+- Juan Andrés Núñez
+
+  - [Web Personal](http://wmedia.es/)
+  - [Twitter](https://twitter.com/juanwmedia)
+
+- Evan You 
+
+  - [Blog](http://blog.evanyou.me/)
+  - [Twitter](https://twitter.com/youyuxi)
+
