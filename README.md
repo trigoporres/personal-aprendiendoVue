@@ -1,8 +1,8 @@
-# personal-aprendiendoVue
+# Personal-AprendiendoVue
 
-## Projects Personal
+## Proyectos Personales
 
-:bulb: [Web personal](http://strigo.es/)
+:bulb: (en construcción) [Web personal](http://strigo.es/)
 
 ## Cursos
 
