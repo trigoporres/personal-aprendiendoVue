@@ -26,6 +26,10 @@
 
 :page_facing_up: (9/01/2018) [Vue diferentes formas de reutilizar codigo](https://elabismodenull.wordpress.com/2017/08/29/vuejs-diferentes-formas-de-reutilizar-codigo/)
 
+## Videos
+
+😍 :movie_camera: [mini demo introducion de Vue Js](https://player.vimeo.com/video/247494684)
+
 ## Recursos
 
 😍 :page_facing_up: [Made with vue.js](https://madewithvuejs.com/)
