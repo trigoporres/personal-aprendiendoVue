@@ -26,6 +26,8 @@
 
 :page_facing_up: (9/01/2018) [Vue diferentes formas de reutilizar codigo](https://elabismodenull.wordpress.com/2017/08/29/vuejs-diferentes-formas-de-reutilizar-codigo/)
 
+:page_facing_up: [Creating Vue.js Component Instances Programmatically](https://css-tricks.com/creating-vue-js-component-instances-programmatically/)
+
 ## Videos
 
 😍 :movie_camera: [mini demo introducion de Vue Js](https://player.vimeo.com/video/247494684)
@@ -33,6 +35,10 @@
 ## Recursos
 
 😍 :page_facing_up: [Made with vue.js](https://madewithvuejs.com/)
+
+## Repositorios Interesantes
+
+[vue-alert](https://github.com/ElemeFE/vue-alert)  crea un plugin e inyecta alert en el DOM bajo demanda
 
 ## Referentes
 
