@@ -18,6 +18,8 @@
 
 :movie_camera: (11/01/2018) [Meetup Vuex ¿Que es? ¿lo necesito?](https://www.youtube.com/watch?v=zC51h2jU0n4)
 
+:movie_camera: (11/01/2018) [Minimal Vue. Vue sin muchas movidas](https://www.youtube.com/watch?v=bJjepc19RVs&amp=&feature=youtu.be)
+
 ## Blogs
 
 :page_facing_up: (9/01/2018) [Vue Js: el sistema reactivo](https://elabismodenull.wordpress.com/2017/09/12/vuejs-el-sistema-reactivo/)
@@ -28,13 +30,21 @@
 
 :page_facing_up: [Creating Vue.js Component Instances Programmatically](https://css-tricks.com/creating-vue-js-component-instances-programmatically/)
 
+:page_facing_up: [Working with Environment Variables in Vue.js](https://alligator.io/vuejs/working-with-environment-variables/#what-about-vue-cli-3)
+
+:page_facing_up: [Creating a Vue.js File Reader Component Using the FileReader API](https://alligator.io/vuejs/file-reader-component/)
+
 ## Videos
 
 😍 :movie_camera: [mini demo introducion de Vue Js](https://player.vimeo.com/video/247494684)
 
+:movie_camera: [The Trick to Understanding Scoped Slots in Vue.js](https://adamwathan.me/the-trick-to-understanding-scoped-slots-in-vuejs/)
+
 ## Recursos
 
 😍 :page_facing_up: [Made with vue.js](https://madewithvuejs.com/)
+
+😍 :page_facing_up: [Material Design Component Framework](https://vuetifyjs.com/en/)
 
 ## Repositorios Interesantes
 
