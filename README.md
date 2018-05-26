@@ -62,6 +62,10 @@
   - [Web Personal](http://wmedia.es/)
   - [Twitter](https://twitter.com/juanwmedia)
 
+- Rubén Valseca
+
+  - [Twitter](https://twitter.com/rubnvp)
+
 - Evan You 
 
   - [Blog](http://blog.evanyou.me/)
