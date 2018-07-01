@@ -34,6 +34,8 @@
 
 :page_facing_up: [Creating a Vue.js File Reader Component Using the FileReader API](https://alligator.io/vuejs/file-reader-component/)
 
+:page_facing_up: [Four tips for working with Vue.js](https://itnext.io/four-tips-for-working-with-vue-js-b362d97de852)
+
 ## Videos
 
 😍 :movie_camera: [mini demo introducion de Vue Js](https://player.vimeo.com/video/247494684)
@@ -45,6 +47,8 @@
 😍 :page_facing_up: [Made with vue.js](https://madewithvuejs.com/)
 
 😍 :page_facing_up: [Material Design Component Framework](https://vuetifyjs.com/en/)
+
+😍 :page_facing_up: [Cheatsheet](https://vuejs-tips.github.io/cheatsheet/)
 
 ## Repositorios Interesantes
 
